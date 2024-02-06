@@ -1,13 +1,18 @@
 Second Year Computer Science BSc Student; Currently for a placement 
 
 About me;
-  Experience in Python, Dart/Flutter
-  Worked on/Working on multiple personal projects
-  Working on utilising GitHub more and expanding my portfolio
+
+  > Experience in Python, Dart/Flutter
+
+  > Worked on/Working on multiple personal projects
+
+  > Working on utilising GitHub more and expanding my portfolio
 
 Socials;
-  @balfararjeh on Twitter
-  bahafararjeh@hotmail.com
+
+  > @balfararjeh on Twitter
+ 
+  >bahafararjeh@hotmail.com
 
 
 
