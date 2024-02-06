@@ -1,4 +1,16 @@
-peepee poopoo
+Second Year Computer Science BSc Student; Currently for a placement 
+
+About me;
+  Experience in Python, Dart/Flutter
+  Worked on/Working on multiple personal projects
+  Working on utilising GitHub more and expanding my portfolio
+
+Socials;
+  @balfararjeh on Twitter
+  bahafararjeh@hotmail.com
+
+
+
 
 <!--
 **bfararjeh/bfararjeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
