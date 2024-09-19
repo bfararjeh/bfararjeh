@@ -1,12 +1,11 @@
-# Second Year Computer Science BSc Student; Currently for a placement 
+# Third Year Computer Science BSc Student
 
 ### About me;
 
   > Experience in Python, Dart/Flutter
 
-  > Teaching myself Java with my current project (pinned repository)
-
   > Working on utilising GitHub more and expanding my portfolio
+> 
 
 ### Socials;
 
