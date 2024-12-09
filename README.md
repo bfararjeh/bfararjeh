@@ -2,16 +2,16 @@
 
 ### About me;
 
-  > Experience in Python, Dart/Flutter
+  > Experience in Python, Dart/Flutter, Java
 
-  > Working on utilising GitHub more and expanding my portfolio
-> 
+  > Currently working on my Final Year Project
+
 
 ### Socials;
 
   > @balfararjeh on Twitter
  
-  > bahafararjeh@hotmail.com
+  > Email at bahafararjeh@hotmail.com
 
 
 
