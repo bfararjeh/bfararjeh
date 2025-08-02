@@ -1,19 +1,15 @@
-# Third Year Computer Science BSc Student
+## About me
 
-### About me;
+First Class Computer Science BSc (with Hons) Graduate from the University of Portsmouth. My dissertation involved me creating an artifical intelligence using machine learning to create an opponent to be played against in the fighting genre video game "Footsies," the project can be seen pinned on my profile. Currently juggling freelance work, content creation, and personal projects while I seek full time employment.
+### Skills
+> Experienced with coding in Python, Flutter, C#, Java
 
-  > Experience in Python, Dart/Flutter, Java
+> Experience in Python Machine Learning and Data Manipulation libraries (TensorFlow, Keras, Pandas)
 
-  > Currently working on my Final Year Project
+> Intermediate experience in Java GUI development libraries (Swing)
 
-
-### Socials;
-
-  > @balfararjeh on Twitter
- 
-  > Email at bahafararjeh@hotmail.com
-
-
+### Contact
+> www.linkedin.com/in/baha-alfararjeh-866b9833b
 
 
 <!--
