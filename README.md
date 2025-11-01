@@ -3,7 +3,7 @@
 First Class Computer Science BSc (with Hons) Graduate from the University of Portsmouth. My dissertation involved me creating an artifical intelligence using machine learning to create an opponent to be played against in the fighting genre video game "Footsies," the project can be seen pinned on my profile. Since graduating, I've been juggling projects, Leetcode, job applications, as well as everything in my personal life including content creation and professional eSports competition. Currently in search of full time employment at a company I can hopefully settle into for a long time.
 
 ## Skills
-- Experience with Python and Javascript with some familiarity in languages such as C#, Dart, and Lua.
+- Experience with Python and Typescript with some familiarity in languages such as C#, Dart, and Lua.
 
 - Experience with technologies such as Keras, Tensorflow, Pandas, React, Tailwind CSS and Unity.
 
